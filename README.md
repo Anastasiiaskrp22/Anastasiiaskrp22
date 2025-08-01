@@ -16,7 +16,6 @@
 - **Data Tools**: Power BI, Excel  
 - **Database Systems**: MySQL, Oracle, Microsoft SQL Server  
 - **Other Tools**: Git, Figma, VS Code
----
 <!--
 **Anastasiiaskrp22/Anastasiiaskrp22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
