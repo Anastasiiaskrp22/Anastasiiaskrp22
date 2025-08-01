@@ -3,8 +3,6 @@
 🎓 I graduated in Business Informatics from the University of Economics in Wrocław.  
 🧪 Currently, I'm part of the **AI 4 Diagnosis** scientific circle, where we are developing an application to support the Pathomorphology Department.  
 
----
-
 ## 🔍 Interests
 
 - Business analysis & data visualization  
@@ -12,7 +10,6 @@
 - Data engineering & database design  
 - UI/UX prototyping
 
----
 ## 🛠️ Tech Stack
 
 - **Languages**: Python, SQL  
