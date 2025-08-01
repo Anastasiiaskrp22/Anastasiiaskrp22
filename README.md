@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Anastasiia
 
 🎓 I graduated in Business Informatics from the University of Economics in Wrocław.  
-🧪 Currently, I'm part of the **AI 4 Diagnosis** scientific circle, where we are developing an application to support the Pathomorphology Department.  
+🧪 Currently, I'm part of the **AI4Business** scientific circle, where we are developing an application to support the Pathomorphology Department.  
 
 ## 🔍 Interests
 
