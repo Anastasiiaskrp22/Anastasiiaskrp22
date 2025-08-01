@@ -1,17 +1,14 @@
-## Hi there 👋 I'm Anastasiia
-
+ Hi there 👋 I'm Anastasiia
 🎓 I graduated in Business Informatics from the University of Economics in Wrocław.  
 🧪 Currently, I'm part of the **AI4Business** scientific circle, where we are developing an application to support the Pathomorphology Department.  
 
-## 🔍 Interests
-
+ 🔍 Interests
 - Business analysis & data visualization  
 - AI in healthcare  
 - Data engineering & database design  
 - UI/UX prototyping
 
-## 🛠️ Tech Stack
-
+ 🛠️ Tech Stack
 - **Languages**: Python, SQL  
 - **Data Tools**: Power BI, Excel  
 - **Database Systems**: MySQL, Oracle, Microsoft SQL Server  
